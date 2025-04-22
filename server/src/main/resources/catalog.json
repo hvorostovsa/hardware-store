@@ -1,0 +1,137 @@
+[
+  {
+    "id": "cement-m500",
+    "name": "Cement M500",
+    "price": 450,
+    "description": "Type: Portland cement\nStrength: M500\nWeight: 50 kg\nApplication: Concrete, masonry",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/cement-m500.png"
+    ]
+  },
+  {
+    "id": "cement-m400",
+    "name": "Cement M400",
+    "price": 400,
+    "description": "Type: Portland cement\nStrength: M400\nWeight: 50 kg\nApplication: General construction",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/cement-m400.png"
+    ]
+  },
+  {
+    "id": "brick-red",
+    "name": "Red Brick",
+    "price": 15,
+    "description": "Type: Ceramic\nSize: 250x120x65 mm\nStrength: M150\nApplication: Walls, facades",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/red-brick.png"
+    ]
+  },
+  {
+    "id": "brick-white",
+    "name": "White Brick",
+    "price": 20,
+    "description": "Type: Silicate\nSize: 250x120x65 mm\nStrength: M200\nApplication: Interior walls",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/white_brick.png"
+    ]
+  },
+  {
+    "id": "paint-white-10l",
+    "name": "White Paint",
+    "price": 2500,
+    "description": "Type: Acrylic\nVolume: 10 liters\nColor: White\nApplication: Interior and exterior walls",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/paint-white-10l.png"
+    ]
+  },
+  {
+    "id": "paint-black-5l",
+    "name": "Black Paint",
+    "price": 1500,
+    "description": "Type: Acrylic\nVolume: 5 liters\nColor: Black\nApplication: Decorative painting",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/paint-black-5l.png"
+    ]
+  },
+  {
+    "id": "plaster-gypsum-25kg",
+    "name": "Gypsum Plaster",
+    "price": 600,
+    "description": "Type: Gypsum-based\nWeight: 25 kg\nApplication: Interior wall finishing",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/plaster-gypsum-25kg.png"
+    ]
+  },
+  {
+    "id": "paint-white-5l",
+    "name": "White Paint",
+    "price": 1500,
+    "description": "Type: Acrylic\nVolume: 5 liters\nColor: White\nApplication: Interior walls",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/paint-white-5l.png"
+    ]
+  },
+  {
+    "id": "tiles-ceramic-white",
+    "name": "Ceramic Tiles",
+    "price": 800,
+    "description": "Type: Ceramic\nSize: 300x300 mm\nColor: White\nApplication: Bathroom, kitchen",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/tiles-ceramic-white.png"
+    ]
+  },
+  {
+    "id": "tiles-ceramic-gray",
+    "name": "Ceramic Tiles",
+    "price": 850,
+    "description": "Type: Ceramic\nSize: 300x300 mm\nColor: Gray\nApplication: Bathroom, kitchen",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/tiles-ceramic-gray.png"
+    ]
+  },
+  {
+    "id": "sand-50kg",
+    "name": "Construction Sand",
+    "price": 200,
+    "description": "Type: River sand\nWeight: 50 kg\nApplication: Concrete, masonry",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/sand-50kg.png"
+    ]
+  },
+  {
+    "id": "gravel-50kg",
+    "name": "Gravel",
+    "price": 250,
+    "description": "Type: Crushed stone\nWeight: 50 kg\nFraction: 5-20 mm\nApplication: Concrete, drainage",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/gravel-50kg.png"
+    ]
+  },
+  {
+    "id": "screwdriver-set",
+    "name": "Screwdriver Set",
+    "price": 1200,
+    "description": "Type: Hand tools\nSet: 6 pieces (Phillips, Slotted)\nMaterial: Chrome-vanadium steel",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/screwdriver-set.png"
+    ]
+  },
+  {
+    "id": "hammer",
+    "name": "Hammer",
+    "price": 500,
+    "description": "Type: Claw hammer\nWeight: 500 g\nMaterial: Steel, wooden handle",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/hammer.png"
+    ]
+  },
+  {
+    "id": "tape-measure-5m",
+    "name": "Tape Measure",
+    "price": 300,
+    "description": "Type: Measuring tool\nLength: 5 meters\nMaterial: Steel tape, plastic case",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/tape-measure-5m.png"
+    ]
+  }
+]
